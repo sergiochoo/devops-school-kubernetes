@@ -1,1 +1,1 @@
-# See README in task folder
+# Look at README in the task folder
