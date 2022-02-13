@@ -1,0 +1,3 @@
+Пример развёртывания nginx - Kuber
+https://github.com/kubernetes/examples/blob/master/staging/simple-nginx.md
+
